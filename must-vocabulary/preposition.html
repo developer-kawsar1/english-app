@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Pronouns</title>
+  <title>Prepositions</title>
   <link rel="stylesheet" href="style.css">
 </head>
 
@@ -21,7 +21,7 @@
       .then(res => res.json())
       .then(data =>
       {
-        document.querySelector('.length').innerHTML = data.length + ' Pronouns'
+        document.querySelector('.length').innerHTML = data.length + ' preposition'
         for (item of data) {
           const div = document.createElement('div')
 
