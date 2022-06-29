@@ -17,11 +17,11 @@
   <script>
     const loader = document.querySelector('.loader')
 
-    fetch('json/preposition.json')
+    fetch('json/connectors.json')
       .then(res => res.json())
       .then(data =>
       {
-        document.querySelector('.length').innerHTML = data.length + ' preposition'
+        document.querySelector('.length').innerHTML = data.length + ' connectors'
         for (item of data) {
           const div = document.createElement('div')
 
