@@ -161,3 +161,28 @@ footer{
 footer div{
   margin-right: 20px;
 }
+.notice {
+  background: lightcoral;
+  padding: 30px;
+  border-radius: 10px;
+  position: relative;
+  
+}
+.notice .title{
+  height: 30px;
+  width: 24vw;
+  background: #000;
+  position: absolute;
+  top: -30%;
+  border-radius: 5px;
+  left: 50%;
+  color: yellow;
+  font-weight: bold;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.notice span{
+  padding-left: 3px;
+}
