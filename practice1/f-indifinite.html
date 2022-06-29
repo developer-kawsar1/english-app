@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Pronouns</title>
+  <title>Future indifinite</title>
   <link rel="stylesheet" href="../must-vocabulary/style.css">
   
   <style>
@@ -23,11 +23,11 @@
   <script>
     const loader = document.querySelector('.loader')
 
-    fetch('/practice1/json/practice1.json')
+    fetch('/practice1/json/f-indifinite.json')
       .then(res => res.json())
       .then(data =>
       {
-        document.querySelector('.length').innerHTML = data.length + ' Pronouns'
+        document.querySelector('.length').innerHTML = data.length 
         for (item of data) {
           const div = document.createElement('div')
 

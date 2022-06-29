@@ -61,6 +61,11 @@ body{
   src: url(fonts/HindSiliguri-SemiBold.ttf);
 }
 
+@font-face {
+  font-family: roboto-bold;
+  src: url(../assets/fonts/roboto-bold1.ttf);
+}
+
 .kalporosh{
  font-family: kalporosh;
  color: green !important;
@@ -73,10 +78,12 @@ font-family: 100;
 color:#fff;
 font-size: 16px !important;
 line-height: 1;
+font-family: roboto-bold;
 
 }
 .comic{
-font-family: comic;
+font-family: kalporosh !important;
+
 }
  .box{
     display: flex;

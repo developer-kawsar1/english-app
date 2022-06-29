@@ -18,16 +18,17 @@
   <div class="loader"></div>
   <div class="top">
     <img src="../assets/images/arrow-back.png" onclick="history.back()" alt="back image ">
-    <p class="length">0</p>
+   <!-- <p class="length">0</p> -->
   </div>
   <script>
     const loader = document.querySelector('.loader')
 
-    fetch('/practice1/json/practice1.json')
+    fetch('/practice1/json/p-indifinite.json')
       .then(res => res.json())
       .then(data =>
       {
-        document.querySelector('.length').innerHTML = data.length + ' Pronouns'
+        /*
+        document.querySelector('.length').innerHTML = data.length + ' present indefinite' */
         for (item of data) {
           const div = document.createElement('div')
 
