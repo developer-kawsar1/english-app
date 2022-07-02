@@ -329,6 +329,322 @@
     "banan": "ফর",
     "bangla": " জন্য"
   
+  },
+  {
+  
+    "english": " good morning",
+    "banan": "গুপ মর্নিং",
+    "bangla": " শুভ সকাল"
+  
+  }, {
+  
+    "english": " good",
+    "banan": "গুড",
+    "bangla": " ভালো"
+  
+  }, {
+  
+    "english": " greethings",
+    "banan": "গ্রেথিংস",
+    "bangla": " শুভেচ্ছা"
+  
+  }, {
+  
+    "english": " goodbye",
+    "banan": "গুডবাই",
+    "bangla": " বিদায় "
+  
+  }, {
+  
+    "english": " go",
+    "banan": "গো",
+    "bangla": " যাওয়া"
+  
+  }, {
+  
+    "english": " goat",
+    "banan": "গট",
+    "bangla": " ছাগল"
+  
+  }, {
+  
+    "english": " ground",
+    "banan": "গ্রাউন্ড",
+    "bangla": " মাঠ"
+  
+  }, {
+  
+    "english": " go away",
+    "banan": "গোএ্যায়ে",
+    "bangla": " চলে যাও"
+  
+  },
+  {
+   
+    "english":" here",
+    "banan": "হেয়ার",
+    "bangla":" শোনা"
+    
+  },{
+   
+    "english":" home",
+    "banan": "হোম",
+    "bangla":" বাড়ি"
+    
+  },{
+   
+    "english":" how are you?",
+    "banan": "হাউ আর ইউ?",
+    "bangla":" তুমি কেমন আছো?"
+    
+  },{
+   
+    "english":" how",
+    "banan": "হাউ",
+    "bangla":" কিভাবে"
+    
+  },{
+   
+    "english":" hello",
+    "banan": "হ্যালো",
+    "bangla":" ওহে"
+    
+  },{
+   
+    "english":" hen",
+    "banan": "হেন",
+    "bangla":" মুরগি"
+    
+  },{
+   
+    "english":" head",
+    "banan": "হেড",
+    "bangla":" মাথা"
+    
+  },{
+   
+    "english":" house",
+    "banan": "হাউজ",
+    "bangla":" বাসা/বাড়ি"
+    
+  },{
+   
+    "english":" hate",
+    "banan": "হেট",
+    "bangla":" ঘৃনা"
+    
+  },{
+   
+    "english":" it",
+    "banan": "ইট",
+    "bangla":" ইহা"
+    
+  },{
+   
+    "english":" insecte",
+    "banan": "ইনসেক্ট ",
+    "bangla":" পোকা"
+    
+  },{
+   
+    "english":" in",
+    "banan": "ইন",
+    "bangla":" মধ্যে/ভিতরে"
+    
+  },{
+   
+    "english":" is",
+    "banan": "ইজ",
+    "bangla":" হয়"
+    
+  },{
+   
+    "english":" jar",
+    "banan": "জার",
+    "bangla":" বোতল/বয়াম"
+    
+  },{
+   
+    "english":" join",
+    "banan": "জয়েন",
+    "bangla":" যোগদান"
+    
+  },{
+   
+    "english":" kite",
+    "banan": "কাইট",
+    "bangla":" ঘুড়ি"
+    
+  },{
+   
+    "english":" know",
+    "banan": "নো",
+    "bangla":" জানা"
+    
+  },{
+   
+    "english":" kettle",
+    "banan": "কেটল",
+    "bangla":" কেটলি"
+    
+  },{
+   
+    "english":"  Kitten",
+    "banan": "কিটেন",
+    "bangla":" বিড়ালছানা"
+    
+  },
+  {
+  
+    "english": " look",
+    "banan": "লুক",
+    "bangla": " তাকানো"
+  
+  }, {
+  
+    "english": " listen",
+    "banan": "লিস্টেন",
+    "bangla": " শুনা"
+  
+  }, {
+  
+    "english": " lesson ",
+    "banan": "লেসন",
+    "bangla": " অধ্যায়"
+  
+  }, {
+  
+    "english": " little",
+    "banan": "লিটল",
+    "bangla": " ছোট"
+  
+  }, {
+  
+    "english": " left",
+    "banan": "লেফ্ট",
+    "bangla": " বাম/বের হওয়া"
+  
+  }, {
+  
+    "english": " lamp",
+    "banan": "ল্যাম্প",
+    "bangla": " বাতি"
+  
+  }, {
+  
+    "english": " live",
+    "banan": "রিভ/লাইভ",
+    "bangla": " সরাসরি/বাস করা"
+  
+  }, {
+  
+    "english": " lay",
+    "banan": "লে",
+    "bangla": " রাখা/স্থাপন করা"
+  
+  },
+  {
+   
+    "english":" morning ",
+    "banan": "মর্নিং",
+    "bangla":" সকাল"
+    
+  },{
+   
+    "english":" my",
+    "banan": "মাই",
+    "bangla":" আমার"
+    
+  },{
+   
+    "english":" me",
+    "banan": " মি",
+    "bangla":" আমাকে"
+    
+  },{
+   
+    "english":" match",
+    "banan": "ম্যাচ",
+    "bangla":" ম্যাচ"
+    
+  },{
+   
+    "english":" missing",
+    "banan": "মিসিং",
+    "bangla":" অনুপস্থিত"
+    
+  },{
+   
+    "english":" moon",
+    "banan": "মুন",
+    "bangla":" চাঁদ "
+    
+  },{
+   
+    "english":" make",
+    "banan": "মেইক",
+    "bangla":" তৈরি করা"
+    
+  },{
+   
+    "english":" Mat",
+    "banan": "মেট",
+    "bangla":" মাদুর"
+    
+  },{
+   
+    "english":" now",
+    "banan": "নাউ",
+    "bangla":"  এখন"
+    
+  },{
+   
+    "english":" next",
+    "banan": "নেক্সট ",
+    "bangla":" পরবর্তী "
+    
+  },{
+   
+    "english":" name",
+    "banan": "নেইম",
+    "bangla":" নাম"
+    
+  },{
+   
+    "english":" number",
+    "banan": "নাম্বার",
+    "bangla":" নাম্বার"
+    
+  },{
+   
+    "english":" net",
+    "banan": "নেট",
+    "bangla":" নেট"
+    
+  },{
+   
+    "english":" not",
+    "banan": "নট",
+    "bangla":" না"
+    
+  },{
+   
+    "english":" open",
+    "banan": "ওপেন",
+    "bangla":" খোলা"
+    
+  },{
+   
+    "english":" ox",
+    "banan": "অক্স",
+    "bangla":" বলদ"
+    
+  },{
+   
+    "english":" outside",
+    "banan": "আউটসাইট",
+    "bangla":" বাইরে"
+    
   }
   
   ]
