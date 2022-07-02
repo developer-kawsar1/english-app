@@ -1,0 +1,400 @@
+[
+  {
+   
+    "english":" after",
+    "banan": "আফটার",
+    "bangla":" পরে"
+    
+  },{
+   
+    "english":" afternoon",
+    "banan": "আফটারনুন ",
+    "bangla":" বিকেল"
+    
+  },{
+   
+    "english":" again",
+    "banan": "এগেইন",
+    "bangla":" আবার"
+    
+  },{
+   
+    "english":" age",
+    "banan": "এজ",
+    "bangla":" বয়স"
+    
+  },{
+   
+    "english":" angry",
+    "banan": "এংরি",
+    "bangla":" রাগান্বিত"
+    
+  },{
+   
+    "english":" animal",
+    "banan": "এনিমেল",
+    "bangla":" পশু"
+    
+  },{
+   
+    "english":" ant",
+    "banan": "এন্ট",
+    "bangla":" পিপীলিকা"
+    
+  },{
+   
+    "english":" apple",
+    "banan": "এ্যাপল",
+    "bangla":" আপেল"
+    
+  },{
+   
+    "english":" and",
+    "banan": "এন্ড",
+    "bangla":" এবং "
+    
+  },{
+   
+    "english":" alphabet",
+    "banan": "এলফাবেট",
+    "bangla":" বর্ণমালা"
+    
+  },{
+   
+    "english":" action",
+    "banan": "একশন",
+    "bangla":" কর্ম"
+    
+  },{
+   
+    "english":" activity",
+    "banan": "এক্টিবিটি",
+    "bangla":" কার্যকলাপ"
+    
+  },{
+   
+    "english":" are",
+    "banan": "আর",
+    "bangla":" হয়"
+    
+  },{
+   
+    "english":" above",
+    "banan": "এভোব",
+    "bangla":" উপরে"
+    
+  },{
+   
+    "english":" ask",
+    "banan": "আস্ক",
+    "bangla":" জিজ্ঞাসা"
+    
+  },{
+   
+    "english":" answer",
+    "banan": "আন্সার",
+    "bangla":" উত্তর"
+    
+  },{
+   
+    "english":" about",
+    "banan": "এবাউট",
+    "bangla":" সম্পর্কে"
+    
+  },{
+   
+    "english":" another",
+    "banan": "এনাদার",
+    "bangla":" অন্য"
+    
+  },{
+   
+    "english":" bag",
+    "banan": "ব্যাগ",
+    "bangla":" থলে"
+    
+  },{
+   
+    "english":" ball",
+    "banan": "বল",
+    "bangla":" বল"
+    
+  },{
+   
+    "english":" bat",
+    "banan": "ব্যাট",
+    "bangla":" ব্যাট"
+    
+  },{
+   
+    "english":" bear",
+    "banan": "বিয়ার",
+    "bangla":" ভালুক"
+    
+  },{
+   
+    "english":" bed",
+    "banan": "বেড",
+    "bangla":" বিছানা"
+    
+  },{
+   
+    "english":" belly",
+    "banan": "বেলি",
+    "bangla":" পেট"
+    
+  },{
+   
+    "english":" big",
+    "banan": "বিগ",
+    "bangla":" বড়"
+    
+  },{
+   
+    "english":" black",
+    "banan": "ব্লাক",
+    "bangla":" কালো"
+    
+  },{
+   
+    "english":" blue",
+    "banan": "ব্লু",
+    "bangla":" নীল"
+    
+  },{
+   
+    "english":" board",
+    "banan": "বোর্ড",
+    "bangla":" বোর্ড"
+    
+  },{
+   
+    "english":" book",
+    "banan": "বুক",
+    "bangla":" বই"
+    
+  },{
+   
+    "english":" breakfast",
+    "banan": "ব্রেকফাস্ট ",
+    "bangla":" সকালের খাবার"
+    
+  },{
+   
+    "english":" brown",
+    "banan": "ব্রাউন",
+    "bangla":" বাদামী"
+    
+  },{
+   
+    "english":" but",
+    "banan": "বাট",
+    "bangla":" কিন্তু"
+    
+  },{
+   
+    "english":" butterfly",
+    "banan": "বাটারফ্লাই ",
+    "bangla":" প্রজাপতি"
+    
+  },{
+   
+    "english":" buy",
+    "banan": "বাই",
+    "bangla":" কেনা"
+    
+  },{
+   
+    "english":" bye",
+    "banan": "বাই",
+    "bangla":" বিদায়"
+    
+  },{
+   
+    "english":" begining",
+    "banan": "বিগিনিং",
+    "bangla":" শুরু"
+    
+  },{
+   
+    "english":" body",
+    "banan": "বডি",
+    "bangla":" শরীর"
+    
+  },{
+   
+    "english":" boy",
+    "banan": "বয়",
+    "bangla":" ছেলে"
+    
+  },{
+   
+    "english":" cat",
+    "banan": "ক্যাট",
+    "bangla":" বিড়াল"
+    
+  },{
+   
+    "english":" circle",
+    "banan": "সার্কেল",
+    "bangla":" বৃত্ত"
+    
+  },{
+   
+    "english":" close",
+    "banan": "ক্লোজ",
+    "bangla":" বন্ধ করা"
+    
+  },{
+   
+    "english":" colour",
+    "banan": "কালার",
+    "bangla":" রঙ"
+    
+  },{
+   
+    "english":" come",
+    "banan": "কাম",
+    "bangla":" আসা"
+    
+  },{
+   
+    "english":" cook",
+    "banan": "কুক",
+    "bangla":" রান্না করা"
+    
+  },{
+   
+    "english":" count",
+    "banan": "গণনা করা",
+    "bangla":" গণনা"
+    
+  },{
+   
+    "english":" COW",
+    "banan": "কাউ",
+    "bangla":" গাভী"
+    
+  },{
+   
+    "english":" crow",
+    "banan": "ক্রো",
+    "bangla":" কাক"
+    
+  },{
+   
+    "english":" command",
+    "banan": "কমান্ড",
+    "bangla":" আদেশ"
+    
+  },{
+   
+    "english":" capital",
+    "banan": "ক্যাপিটাল",
+    "bangla":" রাজধানী"
+    
+  },{
+   
+    "english":" complete",
+    "banan": "কমপ্লিট ",
+    "bangla":" সম্পূর্ণ করা"
+    
+  },{
+   
+    "english":" can",
+    "banan": "ক্যান",
+    "bangla":" পারা"
+    
+  },{
+   
+    "english":" day",
+    "banan": "ডে",
+    "bangla":" দিন"
+    
+  },{
+   
+    "english":" deer",
+    "banan": "ডিয়ার",
+    "bangla":" হরিণ"
+    
+  },{
+   
+    "english":" dog",
+    "banan": "ডগ",
+    "bangla":" কুকুর"
+    
+  },{
+   
+    "english":" doll",
+    "banan": "ডল",
+    "bangla":" পুতুল"
+    
+  },{
+   
+    "english":" door",
+    "banan": "ডোর",
+    "bangla":" দরজা"
+    
+  },{
+   
+    "english":" draw",
+    "banan": "ড্রো",
+    "bangla":" আঁকা"
+    
+  },{
+   
+    "english":" Do",
+    "banan": "ডু",
+    "bangla":" করা"
+    
+  },{
+   
+    "english":" dot",
+    "banan": "ডট",
+    "bangla":" বিন্দু"
+    
+  },{
+   
+    "english":" dinner",
+    "banan": "ডিনার",
+    "bangla":" রাতের খাবার"
+    
+  },{
+   
+    "english":" ear",
+    "banan": "ইয়ার",
+    "bangla":" কান"
+    
+  },{
+   
+    "english":" early",
+    "banan": "আর্লি",
+    "bangla":" তাড়াতাড়ি "
+    
+  },{
+   
+    "english":" egg",
+    "banan": "এগ",
+    "bangla":" ডিম"
+    
+  },{
+   
+    "english":" end",
+    "banan": "ইন্ড",
+    "bangla":" শেষ"
+    
+  },{
+   
+    "english":" evening",
+    "banan": "ইভিনিং ",
+    "bangla":" সন্ধ্যা"
+    
+  },{
+   
+    "english":" everyday",
+    "banan": "এভরিডে",
+    "bangla":" প্রতিদিন"
+    
+  }
+  
+  ]
