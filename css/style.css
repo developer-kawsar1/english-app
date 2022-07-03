@@ -190,6 +190,9 @@ footer div{
   box-sizing: border-box;
   
 }
+.notice a{
+  color: lime;
+}
 .notice span{
   padding-left: 3px;
 }
