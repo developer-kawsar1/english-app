@@ -192,6 +192,7 @@ footer div{
 }
 .notice a{
   color: lime;
+  text-decoration: none;
 }
 .notice span{
   padding-left: 3px;
